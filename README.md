@@ -1,7 +1,7 @@
 # Custom-Html-Docs
 <details closed>
  
-<summary> <h1> Page Configuration </h1> </summary>
+<summary> <h2> Page Configuration </h2> </summary>
  
 ### Title
  
