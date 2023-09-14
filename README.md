@@ -1,23 +1,9 @@
-import React, { Component } from 'react';
-import Icon from '@mdi/react';
-import { mdiAccount } from '@mdi/js';
-
-class App extends Component {
-  render() {
-    return (
-      <Icon path={mdiAccount}
-        title="User Profile"
-        size={1}
-        horizontal
-        vertical
-        rotate={90}
-        color="red"
-        spin
-      />
-    );
+<style>
+  .Red {
+    color: #FF0000;
   }
-};
-<h1> <b>Kadan6407's</b> <a href="https://html.com/#What_is_HTML">HTML</a> <i>Documentation</i></h1>
+</style>
+<h1> <b class="Red">Kadan6407's</b> <a href="https://html.com/#What_is_HTML">HTML</a> <i>Documentation</i></h1>
 <details closed>
  
 <summary> <h2> Page Configuration </h2> </summary>
