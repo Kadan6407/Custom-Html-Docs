@@ -4,7 +4,7 @@
 ```html
  <title>Your Title Here</title>
 ```
-<details open>
+<details closed>
 <summary>Want to ruin the surprise?</summary>
 <br>
  <title>Your Title Here</title>
