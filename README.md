@@ -12,6 +12,7 @@
 #### Tab: Icon 📃
 
 ```html
+<link rel="icon" href="https://cdn-icons-png.flaticon.com/512/9648/9648783.png" type="image/x-icon" />
 ```
 
 </details>
