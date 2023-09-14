@@ -3,7 +3,7 @@
  
 <summary> <h2> Page Configuration </h2> </summary>
  
-### Title
+#### Title
  
 ```html
  <title>Your Title Here</title>
