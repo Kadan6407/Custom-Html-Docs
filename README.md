@@ -25,7 +25,11 @@
  #### Source: CSS
  
 ```html
-        <link rel="stylesheet" href="Home.css"></link>
+<link rel="stylesheet" href="Home.css"></link>
+```
+
+```html
+<link rel="stylesheet" href="[Home.css](https://raw.githubusercontent.com/Kadan6407/TEST1/main/cool.css)https://raw.githubusercontent.com/Kadan6407/TEST1/main/cool.css"></link>
 ```
 
  #### Source: JS 
