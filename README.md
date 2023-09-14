@@ -1,4 +1,4 @@
-<h1> <b>Kadan6407's</b> <a href="https://html.com/#What_is_HTML">HTML</a> Documentation</h1>
+<h1> <b>Kadan6407's</b> <a href="https://html.com/#What_is_HTML">HTML</a> <i>Documentation</i></h1>
 <details closed>
  
 <summary> <h2> Page Configuration </h2> </summary>
