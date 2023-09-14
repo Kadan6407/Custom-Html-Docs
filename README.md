@@ -1,11 +1,12 @@
 # Custom-Html-Docs
-### Page/Tab Config
 #### Title
 ```html
  <title>Your Title Here</title>
 ```
+### Page/Tab Config
 <details closed>
-<summary>Want to ruin the surprise?</summary>
+ #### Title
+<summary>Page/Tab Config</summary>
 <br>
  <title>Your Title Here</title>
 </details>
