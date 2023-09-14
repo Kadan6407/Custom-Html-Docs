@@ -1,8 +1,15 @@
+<head>
+  
 <style>
+  
   .Red {
     color: #FF0000;
   }
+  
 </style>
+  
+</head>
+
 <h1> <b class="Red">Kadan6407's</b> <a href="https://html.com/#What_is_HTML">HTML</a> <i>Documentation</i></h1>
 <details closed>
  
