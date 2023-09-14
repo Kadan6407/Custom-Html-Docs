@@ -25,7 +25,7 @@
  #### Source: CSS
  
 ```html
-<link rel="stylesheet" href="Home.css"></link>
+<link rel="stylesheet" href="YourFile.css"></link>
 ```
 
 ```html
@@ -33,5 +33,8 @@
 ```
 
  #### Source: JS 
- 
+
+ ```html
+<script src="YourFile.js"></script>
+```
 </details>
